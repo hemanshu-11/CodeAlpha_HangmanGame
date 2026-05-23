@@ -19,14 +19,14 @@ The game includes multiple categories, score tracking, input validation, and ASC
 * 💻 Fully console-based gameplay
 * 🎮 ASCII Hangman visualization
 
-
+---
 
 # 🛠️ Technologies Used
 
 * Python
 * Random Module
 
-
+---
 
 # 📁 Categories Included
 
@@ -128,6 +128,8 @@ The enhanced version includes:
 * Improved user experience
 
 This version was created to explore GUI development and event-driven programming in Python.
+
+---
 
 # 👨‍💻 Author
 
