@@ -115,7 +115,7 @@ Score: 0
 * Larger word datasets
 
 ---
-🚀 Extended Version
+# 🚀 Extended Version
 
 Apart from the required console-based implementation, an additional GUI version of the Hangman Game was also developed using Tkinter for learning purposes.
 
