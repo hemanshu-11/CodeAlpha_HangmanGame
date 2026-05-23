@@ -96,7 +96,7 @@ python hangman.py
 ```text
 🎮 HANGMAN GAME
 
-Category: Programming
+Category: Animals
 
 _ _ _ _ _ _
 
@@ -135,4 +135,4 @@ This project was created to practice:
 * GUI development
 * Game logic implementation
 * Problem-solving skills
-* Interactive ap
+* Interactive appplication design
