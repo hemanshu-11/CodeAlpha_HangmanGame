@@ -7,27 +7,27 @@ word_categories = {
 
     "Programming": [
         "python", "variable", "function", "compiler",
-        "algorithm", "database", "debugging", "syntax"
+        "algorithm"
     ],
 
     "Technology": [
         "keyboard", "monitor", "internet", "software",
-        "hardware", "processor", "network", "cybersecurity"
+        "hardware"
     ],
 
     "Animals": [
         "elephant", "giraffe", "kangaroo", "penguin",
-        "dolphin", "alligator", "chimpanzee", "tiger"
+        "dolphin"
     ],
 
     "Countries": [
         "india", "canada", "germany", "japan",
-        "brazil", "france", "australia", "singapore"
+        "brazil"
     ],
 
     "Space": [
         "planet", "galaxy", "nebula", "asteroid",
-        "gravity", "astronaut", "satellite", "comet"
+        "gravity"
     ]
 }
 
